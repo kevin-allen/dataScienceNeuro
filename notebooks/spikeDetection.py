@@ -72,7 +72,6 @@ def spike_detection(y,z=5):
     Returns:
     spikeTimes: List of numpy arrays containing the times of spikes detected on each channel. 
     """
-    z=5 # we want spikes to be at least 5 standard deviation from the mean
 
     # We can use Numpy mean, std to calculate the mean of each channel without a for loop
     means=y.mean(axis=1)

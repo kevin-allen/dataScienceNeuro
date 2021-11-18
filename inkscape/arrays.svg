@@ -30,7 +30,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
      inkscape:cx="-874.9216"
-     inkscape:cy="451.60293"
+     inkscape:cy="337.31722"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1253,5 +1253,891 @@
          id="rect1675"
          style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.12921038;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
+    <g
+       inkscape:export-ydpi="600"
+       inkscape:export-xdpi="600"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       transform="translate(-132.14071,104.11001)"
+       id="g1049">
+      <g
+         id="g1047"
+         transform="translate(57.730218,7.8844511)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 82.758398,287.43819 0.0652,-67.48036"
+           id="path1019"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path1021"
+           d="m 88.143458,287.43819 0.0652,-67.48036"
+           style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 88.143458,287.43819 0.0652,-67.48036"
+           id="path1023"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 93.590858,287.43819 0.0652,-67.48036"
+           id="path1025"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path1027"
+           d="m 98.975948,287.43819 0.0652,-67.48036"
+           style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 104.36104,287.43819 0.0651,-67.48036"
+           id="path1029"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <rect
+           style="opacity:1;fill:#ffff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1031"
+           width="21.537439"
+           height="67.480362"
+           x="82.823586"
+           y="219.95782" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 82.431544,228.9928 21.932766,0.0649"
+           id="path1033"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path1035"
+           d="m 82.431545,237.39552 21.932765,0.0649"
+           style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 82.431544,254.20092 21.932766,0.0648"
+           id="path1037"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path1039"
+           d="m 82.431545,262.60359 21.932765,0.0649"
+           style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 82.431545,271.00629 21.932765,0.0649"
+           id="path1041"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path1043"
+           d="m 82.431546,245.7982 21.932764,0.0649"
+           style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path1045"
+           d="m 82.431544,279.40899 21.932766,0.0649"
+           style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <rect
+       inkscape:export-ydpi="600"
+       inkscape:export-xdpi="600"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.12690151;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1051"
+       width="16.101072"
+       height="60.006474"
+       x="8.0210857"
+       y="339.92896" />
+    <g
+       inkscape:export-ydpi="600"
+       inkscape:export-xdpi="600"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       transform="translate(-35.271262,121.672)"
+       id="g1079">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1053"
+         d="m 37.788003,285.73729 0.06515,-67.48036"
+         style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 43.173057,285.73729 0.06515,-67.48036"
+         id="path1055"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1057"
+         d="m 48.558122,285.73729 0.06515,-67.48036"
+         style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 53.943171,285.73729 0.06515,-67.48036"
+         id="path1059"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1061"
+         d="m 59.32823,285.73729 0.06515,-67.48036"
+         style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         y="218.25693"
+         x="37.853153"
+         height="67.480362"
+         width="21.475077"
+         id="rect1063"
+         style="opacity:1;fill:#ff0000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.797533,227.79009 21.932765,0.0649"
+         id="path1065"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1067"
+         d="m 37.797534,236.19281 21.932764,0.0649"
+         style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.797533,252.99821 21.932765,0.0648"
+         id="path1069"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1071"
+         d="m 37.797534,261.40088 21.932764,0.0649"
+         style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.797534,269.80358 21.932764,0.0649"
+         id="path1073"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1075"
+         d="m 37.797535,244.59549 21.932763,0.0649"
+         style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1077"
+         d="m 37.797533,278.20628 21.932765,0.0649"
+         style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <rect
+       inkscape:export-ydpi="600"
+       inkscape:export-xdpi="600"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       y="347.38596"
+       x="2.1707597"
+       height="60.006474"
+       width="16.101072"
+       id="rect1081"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.12690151;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       inkscape:export-ydpi="600"
+       inkscape:export-xdpi="600"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       transform="translate(-58.430912,125.66361)"
+       id="g1109">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 55.160522,289.21179 0.06515,-67.48036"
+         id="path1083"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1085"
+         d="m 60.545576,289.21179 0.06515,-67.48036"
+         style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 65.930641,289.21179 0.06515,-67.48036"
+         id="path1087"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1089"
+         d="m 71.31569,289.21179 0.06515,-67.48036"
+         style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 76.700749,289.21179 0.06515,-67.48036"
+         id="path1091"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <rect
+         style="opacity:1;fill:#00ff00;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1093"
+         width="21.475077"
+         height="67.480362"
+         x="55.225674"
+         y="221.73143" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1095"
+         d="m 55.170052,231.26459 21.932765,0.0649"
+         style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 55.170053,239.66731 21.932764,0.0649"
+         id="path1097"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1099"
+         d="m 55.170052,256.47271 21.932765,0.0648"
+         style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 55.170053,264.87538 21.932764,0.0649"
+         id="path1101"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1103"
+         d="m 55.170053,273.27808 21.932764,0.0649"
+         style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 55.170054,248.06999 21.932763,0.0649"
+         id="path1105"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.11401075px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 55.170052,281.68078 21.932765,0.0649"
+         id="path1107"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <text
+       inkscape:export-ydpi="600"
+       inkscape:export-xdpi="600"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       id="text1113"
+       y="-5.8036666"
+       x="-380.61972"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       transform="rotate(-90)"><tspan
+         style="stroke-width:0.26458332"
+         y="-5.8036666"
+         x="-380.61972"
+         id="tspan1111"
+         sodipodi:role="line">Channels</tspan></text>
+    <text
+       inkscape:export-ydpi="600"
+       inkscape:export-xdpi="600"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="19.692595"
+       y="329.27896"
+       id="text1117"><tspan
+         sodipodi:role="line"
+         id="tspan1115"
+         x="19.692595"
+         y="329.27896"
+         style="stroke-width:0.26458332">Samples</tspan></text>
+    <text
+       inkscape:export-ydpi="600"
+       inkscape:export-xdpi="600"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       transform="rotate(-45)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-263.75372"
+       y="311.80591"
+       id="text1121"><tspan
+         sodipodi:role="line"
+         id="tspan1119"
+         x="-263.75372"
+         y="311.80591"
+         style="stroke-width:0.26458332">Spikes</tspan></text>
+    <text
+       inkscape:export-ydpi="600"
+       inkscape:export-xdpi="600"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="14.400923"
+       y="315.67181"
+       id="text1125"><tspan
+         sodipodi:role="line"
+         id="tspan1123"
+         x="14.400923"
+         y="315.67181"
+         style="stroke-width:0.26458332">3D NumPy array</tspan></text>
+    <g
+       inkscape:export-ydpi="600"
+       inkscape:export-xdpi="600"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       transform="matrix(0.25691987,0,0,0.33502483,227.20622,341.61422)"
+       id="g1131">
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path1127"
+         sodipodi:sides="3"
+         sodipodi:cx="-657.67859"
+         sodipodi:cy="60.76487"
+         sodipodi:r1="30.238092"
+         sodipodi:r2="15.289181"
+         sodipodi:arg1="-1.8725458e-09"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -627.4405,60.76487 -22.5935,13.240819 -22.76364,12.946137 -0.17013,-26.186957 0.17013,-26.186955 22.76364,12.946137 z"
+         inkscape:transform-center-x="-7.3266891"
+         inkscape:transform-center-y="-0.37797695" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.12921038;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1129"
+         width="40.070992"
+         height="19.739405"
+         x="-701.9151"
+         y="50.46701" />
+    </g>
+    <text
+       inkscape:export-ydpi="600"
+       inkscape:export-xdpi="600"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       id="text1135"
+       y="316.0498"
+       x="148.20447"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="316.0498"
+         x="148.20447"
+         id="tspan1133"
+         sodipodi:role="line">2D NumPy array</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1137"
+       d="m 102.50715,341.73245 118.1291,0.0649"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.50715,350.13454 118.1291,0.0648"
+       id="path1139"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1141"
+       d="m 102.50715,358.53667 118.1291,0.0648"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.50715,375.3409 118.1291,0.0649"
+       id="path1143"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1145"
+       d="m 102.50715,383.74299 118.1291,0.0648"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.50716,392.1451 118.12909,0.0648"
+       id="path1147"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1149"
+       d="m 102.50716,366.93877 118.12909,0.0649"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1151"
+       d="m 102.50715,400.54721 118.1291,0.0648"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.50715,408.94931 118.1291,0.0648"
+       id="path1153"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1155"
+       d="m 102.50715,408.94931 0.0652,-67.48035"
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 107.89221,408.94931 0.0651,-67.48035"
+       id="path1157"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1159"
+       d="m 113.27726,408.94931 0.0652,-67.48035"
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 118.66232,408.94931 0.0652,-67.48035"
+       id="path1161"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1163"
+       d="m 124.04738,408.94931 0.0652,-67.48035"
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.43244,408.94931 0.0651,-67.48035"
+       id="path1165"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1167"
+       d="m 134.81749,408.94931 0.0652,-67.48035"
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.20255,408.94931 0.0651,-67.48035"
+       id="path1169"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1171"
+       d="m 145.5876,408.94931 0.0652,-67.48035"
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 150.97266,408.94931 0.0652,-67.48035"
+       id="path1173"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1175"
+       d="m 156.35772,408.94931 0.0651,-67.48035"
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 161.74277,408.94931 0.0651,-67.48035"
+       id="path1177"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1179"
+       d="m 167.12783,408.94931 0.0652,-67.48035"
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 172.5129,408.94931 0.0652,-67.48035"
+       id="path1181"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1183"
+       d="m 177.89799,408.94931 0.0652,-67.48035"
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 183.28308,408.94931 0.0651,-67.48035"
+       id="path1185"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1187"
+       d="m 188.66812,408.94931 0.0652,-67.48035"
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 194.05317,408.94931 0.0652,-67.48035"
+       id="path1189"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1191"
+       d="m 194.05317,408.94931 0.0652,-67.48035"
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 214.16163,408.94931 0.0652,-67.48035"
+       id="path1193"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1195"
+       d="m 220.51168,408.94931 0.0652,-67.48035"
+       style="fill:none;stroke:#000000;stroke-width:0.20043805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       id="text1199"
+       y="333.89047"
+       x="157.50269"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         style="stroke-width:0.26458332"
+         y="333.89047"
+         x="157.50269"
+         id="tspan1197"
+         sodipodi:role="line">Samples (features, axis=1)</tspan></text>
+    <text
+       transform="rotate(-90)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-373.99664"
+       y="82.983681"
+       id="text1203"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1201"
+         x="-373.99664"
+         y="82.983681"
+         style="stroke-width:0.26458332">Spikes (observations, axis =0)</tspan></text>
+    <text
+       id="text1207"
+       y="340.12274"
+       x="104.66161"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         style="fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+         y="340.12274"
+         x="104.66161"
+         id="tspan1205"
+         sodipodi:role="line">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="110.12425"
+       y="340.20267"
+       id="text1211"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1209"
+         x="110.12425"
+         y="340.20267"
+         style="fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">1</tspan></text>
+    <text
+       id="text1215"
+       y="340.12274"
+       x="121.21215"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         style="fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+         y="340.12274"
+         x="121.21215"
+         id="tspan1213"
+         sodipodi:role="line">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="115.76328"
+       y="340.20267"
+       id="text1219"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1217"
+         x="115.76328"
+         y="340.20267"
+         style="fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">2</tspan></text>
+    <text
+       id="text1223"
+       y="340.20267"
+       x="126.73543"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         style="fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+         y="340.20267"
+         x="126.73543"
+         id="tspan1221"
+         sodipodi:role="line">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="132.44287"
+       y="340.50504"
+       id="text1227"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1225"
+         x="132.44287"
+         y="340.50504"
+         style="fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="216.69377"
+       y="339.82468"
+       id="text1231"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1229"
+         x="216.69377"
+         y="339.82468"
+         style="fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">320</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="99.936905"
+       y="347.57321"
+       id="text1235"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1233"
+         x="99.936905"
+         y="347.57321"
+         style="fill:#0000ff;fill-opacity:1;stroke-width:0.26458332">0</tspan></text>
+    <text
+       id="text1239"
+       y="355.96634"
+       x="99.732315"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         style="fill:#0000ff;fill-opacity:1;stroke-width:0.26458332"
+         y="355.96634"
+         x="99.732315"
+         id="tspan1237"
+         sodipodi:role="line">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="99.543327"
+       y="364.39392"
+       id="text1243"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1241"
+         x="99.543327"
+         y="364.39392"
+         style="fill:#0000ff;fill-opacity:1;stroke-width:0.26458332">2</tspan></text>
+    <text
+       id="text1247"
+       y="372.74435"
+       x="99.543327"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         style="fill:#0000ff;fill-opacity:1;stroke-width:0.26458332"
+         y="372.74435"
+         x="99.543327"
+         id="tspan1245"
+         sodipodi:role="line">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="99.543327"
+       y="381.13751"
+       id="text1251"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan1249"
+         x="99.543327"
+         y="381.13751"
+         style="fill:#0000ff;fill-opacity:1;stroke-width:0.26458332">4</tspan></text>
+    <text
+       id="text1255"
+       y="390.13333"
+       x="99.01416"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         style="fill:#0000ff;fill-opacity:1;stroke-width:0.26458332"
+         y="390.13333"
+         x="99.01416"
+         id="tspan1253"
+         sodipodi:role="line">...</tspan></text>
+    <text
+       id="text1263"
+       y="407.06668"
+       x="93.722488"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/kevin/repo/dataNeuroMaster/images/spike_features_array_transformation.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         style="fill:#0000ff;fill-opacity:1;stroke-width:0.26458332"
+         y="407.06668"
+         x="93.722488"
+         id="tspan1261"
+         sodipodi:role="line">1005</tspan></text>
   </g>
 </svg>
