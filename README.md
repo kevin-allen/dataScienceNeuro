@@ -1,6 +1,17 @@
-# Data Science course for Neuroscience (2021)
+# Data Science and Analysis in Neuroscience
 
-This repository contains the jupyter notebooks used for the course `Data Science in Neuroscience` for Masters students on the Neuroscience Major program at the  Faculty of Biosciences, University of Heidelberg.
+This is the repository for the course [Data Science and Analysis in Neuroscience]() which is offered to Masters students on the Neuroscience Major program at the  Faculty of Biosciences, University of Heidelberg.
 
 
+The course is aimed at students interested to improve their ability to perform data analysis in the field of neuroscience. 
+
+
+## Lecture 1
+
+* What is data science?
+* Introduction to Python, NumPy, Matplotlib
+* Load electrophysiological data recorded from the hippocampus of a mouse into a NumPy array
+
+
+## Lecture 2
 
