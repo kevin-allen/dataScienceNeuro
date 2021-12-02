@@ -51,3 +51,10 @@ The course is aimed at students interested to improve their ability to perform d
 <div>
 <img src="images/learning.png"/>
 </div>
+
+
+## Lecture 5
+
+* Introduction to deep neuronal networks
+* Pose estimation using Deeplabcut
+
