@@ -32,6 +32,12 @@ The course is aimed at students interested to improve their ability to perform d
 <img src="images/spikeDetection.png"/>
 </div>
 
+## Lecture 3
+
+* Detecting action potentials and spike clustering
+  * Dimensionality reduction
+  * Clustering spike waveforms
+  
 <div>
-<img src="images/spike_extraction.png" width="800"/>
+<img src="images/pca.png"/>
 </div>
