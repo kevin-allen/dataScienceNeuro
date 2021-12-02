@@ -41,3 +41,13 @@ The course is aimed at students interested to improve their ability to perform d
 <div>
 <img src="images/pca.png"/>
 </div>
+
+
+## Lecture 4
+
+* Introduction to machine learning
+* Speed cell: a simple example of machine learning with a linear regression
+
+<div>
+<img src="images/learning.png"/>
+</div>
