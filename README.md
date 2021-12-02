@@ -18,3 +18,20 @@ The course is aimed at students interested to improve their ability to perform d
 
 ## Lecture 2
 
+* Why and how are in-vivo recordings performed?
+
+* Detecting action potentials and spike clustering
+  * Filtering
+  * Detecting spikes
+  * Extracting spike waveforms
+  * Dimensionality reduction
+  * Clustering spike waveforms
+
+
+<div>
+<img src="images/spikeDetection.png"/>
+</div>
+
+<div>
+<img src="images/spike_extraction.png" width="800"/>
+</div>
