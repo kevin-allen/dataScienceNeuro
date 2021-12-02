@@ -12,6 +12,9 @@ The course is aimed at students interested to improve their ability to perform d
 * Introduction to Python, NumPy, Matplotlib
 * Load electrophysiological data recorded from the hippocampus of a mouse into a NumPy array
 
+<div>
+<img src="../images/shortRaw.png"/>
+</div>
 
 ## Lecture 2
 
