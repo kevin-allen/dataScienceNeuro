@@ -61,3 +61,14 @@ The course is aimed at students interested in improving their ability to perform
 <div>
 <img src="images/dlc_path.png"/>
 </div>
+
+
+
+## Lecture 6
+
+* Analysis on spike trains (mean firing rate, instantaneous firing rate, inter-spike intervals)
+* Firing rate map of a spatially selective neuron
+
+<div>
+<img src="images/gridCellExample.png"/>
+</div>

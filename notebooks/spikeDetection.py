@@ -112,4 +112,3 @@ def plot_spike_detection(y,spikeTimesList,thresholds,offset=3000, figsize=(20,15
         plt.plot([0,y.shape[1]],[thresholds[i]-i*offset,thresholds[i]-i*offset]) # plot the threshold
         plt.scatter(spikeTimesList[i],y[i,spikeTimesList[i]]-i*offset,c="red") # plot the spikes
     plt.legend()
-    plt.show()
