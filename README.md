@@ -66,7 +66,7 @@ The course is aimed at students interested in improving their ability to perform
 
 ## Lecture 6
 
-* Analysis on spike trains (mean firing rate, instantaneous firing rate, inter-spike intervals)
+* Analysis on spike trains (mean firing rate and instantaneous firing rate)
 * Firing rate map of a spatially selective neuron
 
 <div>
