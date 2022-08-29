@@ -1,4 +1,4 @@
-# Data Science and Analysis in Neuroscience
+# Data Science in Neuroscience
 
 This is the repository for the course [Data Science and Analysis in Neuroscience]() which is offered to Masters students on the Neuroscience Major program at the  Faculty of Biosciences, University of Heidelberg.
 
