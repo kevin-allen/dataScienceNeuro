@@ -2,8 +2,11 @@
 
 This is the repository for the course `Data Science in Neuroscience` which is offered to Masters students on the Neuroscience Major program at the  Faculty of Biosciences, University of Heidelberg.
 
-
 The course is aimed at students interested in improving their ability to perform data analysis in the field of neuroscience. 
+
+There is a series of lectures that introduces the main concepts and each lecture ends with some exercises that can be completed between lectures. 
+
+There will be a 2-3 quizzes to test how much of the course content has been learned and can be used in the context of typical problems encounter while performing data analysis. 
 
 
 ## Lecture 1
