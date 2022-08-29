@@ -27,9 +27,7 @@ There will be 2-3 quizzes to test how much of the course content has been learne
   * Filtering
   * Detecting spikes
   * Extracting spike waveforms
-  * Dimensionality reduction
-  * Clustering spike waveforms
-
+  
 
 <div>
 <img src="images/spikeDetection.png"/>
