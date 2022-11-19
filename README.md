@@ -51,7 +51,7 @@ The students will complete a small data science project at the end of the course
 * Speed cell: a simple example of machine learning with a linear regression
 
 <div>
-<img src="images/learning_animation/learning_animation.gif"/>
+<img src="images/learning_animation/learning_animation.gif" width="1000" align="center">
 </div>
 
 
