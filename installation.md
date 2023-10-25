@@ -47,9 +47,11 @@ You should now be able to run the Jupyter Lab server on your computer and create
 
 ## Install git
 
-This is for all operating systems.
-
 You probably want to install `git` to be able to get the content of the course from the GitHub repository.
+
+```
+sudo apt install git
+```
 
 I normally create a directory called `repo`, and I put all my repositories in there. 
 
