@@ -44,11 +44,14 @@ You should now be able to run the Jupyter Lab server on your computer and create
 * Activate your Python virtual environment
 * Launch Jupyter lab from the terminal: `jupyter lab`
 
-### Install git
 
-You probably want to install git to be able to get the content of the course from the GitHub repository.
+## Install git
 
-I normally create a directory called `repo` and I put all my repositories in there. 
+This is for all operating systems.
+
+You probably want to install `git` to be able to get the content of the course from the GitHub repository.
+
+I normally create a directory called `repo`, and I put all my repositories in there. 
 
 Here, we will clone the course repository.
 
@@ -65,4 +68,6 @@ If you want to update your repository with the latest version, you can use `git 
 cd repo/dataScienceNeuro
 git pull
 ```
+
+When working in the class room or experimenting with the course content, I would recommend making a copy of the original notebook and only working on the copy. 
 
