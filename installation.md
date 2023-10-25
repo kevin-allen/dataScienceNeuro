@@ -62,6 +62,9 @@ You probably want to install `git` to be able to get the content of the course f
 sudo apt install git
 ```
 
+
+## Make a copy of the repository on your computer (clone)
+
 I normally create a directory called `repo`, and I put all my repositories in there. 
 
 Here, we will clone the course repository.
@@ -73,12 +76,14 @@ cd repo
 git clone https://github.com/kevin-allen/dataScienceNeuro.git
 ```
 
-If you want to update your repository with the latest version, you can use `git pull`.
+The content of the course is now on your computer.
+
+## Update your copy of the course repository
 
 ```
 cd repo/dataScienceNeuro
 git pull
 ```
 
-When working in the class room or experimenting with the course content, I would recommend making a copy of the original notebook and only working on the copy. 
+When working in the classroom or experimenting with the course content, I would recommend making a copy of the original notebook and only working on the copy. 
 
