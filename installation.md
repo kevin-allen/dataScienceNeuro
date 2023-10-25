@@ -4,36 +4,36 @@ To be able to run Python code, you will need to install Python on your computer 
 
 ## Ubuntu
 
+Ubuntu comes with Python 3 installed by default.
 
+### Install pip
 
+```
+sudo apt install python3-pip
+```
 
-## Windows
+```
+pip install virtualenv
+```
 
-### You probably need to install Python.
-
-*  Go to https://www.python.org/downloads/windows/
-*  Download the Python installer
-*  Run the Python installer
 
 ### Create a python virtual environment
 
 *  Open a terminal
-*  `python.exe -m pip install --upgrade pip`
-*  `pip install virtualenv`
 * `mkdir python_environments`
 * `cd python_environments`
 * `virtualenv dsenv`
 
 ### Activate your Python virtual environment
 
-* `.\dsenv\Scripts\activate`
+* `source ~/python_environments/dsenv/bin/activate`
 
 
 ### Install Python packages in your virtual environment
 
 With your Python environment activated, install a few packages
 
-`pip install numpy pandas matplotlib scipy jupyterlab`
+`pip install numpy pandas matplotlib scipy jupyterlab scikit-learn`
 
 
 ### Test your installation
