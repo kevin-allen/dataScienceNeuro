@@ -20,20 +20,26 @@ pip install virtualenv
 ### Create a python virtual environment
 
 *  Open a terminal
-* `mkdir python_environments`
-* `cd python_environments`
-* `virtualenv dsenv`
+```
+cd ~
+mkdir python_environments
+cd python_environments
+virtualenv dsenv
+```
 
 ### Activate your Python virtual environment
 
-* `source ~/python_environments/dsenv/bin/activate`
-
+```
+source ~/python_environments/dsenv/bin/activate
+```
 
 ### Install Python packages in your virtual environment
 
 With your Python environment activated, install a few packages
 
-`pip install numpy pandas matplotlib scipy jupyterlab scikit-learn`
+```
+pip install numpy pandas matplotlib scipy jupyterlab scikit-learn
+```
 
 
 ### Test your installation
@@ -41,8 +47,11 @@ With your Python environment activated, install a few packages
 You should now be able to run the Jupyter Lab server on your computer and create a Jupyter notebook in your browser.
 
 * Open a terminal
-* Activate your Python virtual environment
-* Launch Jupyter lab from the terminal: `jupyter lab`
+
+```
+source ~/python_environments/dsenv/bin/activate
+jupyter lab
+```
 
 
 ## Install git
