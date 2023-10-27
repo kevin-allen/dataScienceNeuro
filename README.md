@@ -4,9 +4,9 @@ This is the repository for the course [Data Science and analysis in Neuroscience
 
 The course is aimed at students interested in improving their ability to perform data analysis in the field of neuroscience. 
 
-There is a series of lectures that introduces the main concepts and each lecture ends with some exercises that can be completed between lectures. 
+There is a series of lectures that introduces the main concepts, and each lecture ends with some exercises that can be completed between lectures. 
 
-There will be 2-3 quizzes to test how much of the course content has been learned and can be used in the context of typical problems encounter while performing data analysis.
+There will be 2-3 quizzes to test how much of the course content has been learned and can be used in the context of typical problems encountered while performing data analysis.
 
 The students will complete a small data science project at the end of the course.
 
@@ -14,13 +14,13 @@ The students will complete a small data science project at the end of the course
 ## Week 1
 
 * What is data science?
-* Introduction to Python, NumPy, Matplotlib and Pandas
+* Introduction to Python, NumPy, Matplotlib, and Pandas.
 <div>
 <img src="images/packages_logos.png"/>
 </div>
 
 
-* Load electrophysiological data recorded from the hippocampus of a mouse into a NumPy array
+* Load electrophysiological data recorded from the hippocampus of a mouse into a NumPy array.
 * Inspect NumPy arrays, perform calculations on NumPy arrays, and plot NumPy arrays with Matplotlib.
 
 
