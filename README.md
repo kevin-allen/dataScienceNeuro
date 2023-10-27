@@ -11,7 +11,7 @@ There will be 2-3 quizzes to test how much of the course content has been learne
 The students will complete a small data science project at the end of the course.
 
 
-## Lecture 1
+## Week 1
 
 * What is data science?
 * Introduction to Python, NumPy, Matplotlib
