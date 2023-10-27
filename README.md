@@ -14,8 +14,16 @@ The students will complete a small data science project at the end of the course
 ## Week 1
 
 * What is data science?
-* Introduction to Python, NumPy, Matplotlib
+* Introduction to Python, NumPy, Matplotlib and Pandas
+<div>
+<img src="images/packages_logos.png"/>
+</div>
+
+
 * Load electrophysiological data recorded from the hippocampus of a mouse into a NumPy array
+* Inspect NumPy arrays, perform calculations on NumPy arrays, and plot NumPy arrays with Matplotlib.
+
+
 
 <div>
 <img src="images/shortRaw.png"/>
