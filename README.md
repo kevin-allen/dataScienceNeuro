@@ -29,7 +29,17 @@ The students will complete a small data science project at the end of the course
 <img src="images/shortRaw.png"/>
 </div>
 
-## Lecture 2
+## Week 2
+
+* Introduction to machine learning
+* Speed cell: a simple example of machine learning with a linear regression
+
+<div>
+<img src="images/learning_animation/learning_animation.gif" width="1000" align="center">
+</div>
+
+
+## Lecture 3
 
 * Why and how are in-vivo recordings performed?
 
@@ -42,7 +52,7 @@ The students will complete a small data science project at the end of the course
 <img src="images/spikeDetection.png"/>
 </div>
 
-## Lecture 3
+## Lecture 4
 
 * Detecting action potentials and spike clustering
   * Dimensionality reduction
@@ -52,15 +62,6 @@ The students will complete a small data science project at the end of the course
 <img src="images/pca.png"/>
 </div>
 
-
-## Lecture 4
-
-* Introduction to machine learning
-* Speed cell: a simple example of machine learning with a linear regression
-
-<div>
-<img src="images/learning_animation/learning_animation.gif" width="1000" align="center">
-</div>
 
 
 ## Lecture 5
