@@ -49,7 +49,7 @@ The students will complete a small data science project at the end of the course
   * Extracting spike waveforms
   
 <div>
-<img src="images/spikeDetection.png"/>
+<img src="images/filteredSignals.png"/>
 </div>
 
 ## Lecture 4
