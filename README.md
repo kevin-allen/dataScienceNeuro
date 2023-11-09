@@ -39,7 +39,7 @@ The students will complete a small data science project at the end of the course
 </div>
 
 
-## Lecture 3
+## Week 3
 
 * Why and how are in-vivo recordings performed?
 
