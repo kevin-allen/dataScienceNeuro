@@ -43,6 +43,12 @@ The students will complete a small data science project at the end of the course
 
 * Why and how are in-vivo recordings performed?
 
+* Introduction to SciPy
+<div>
+<img src="images/scipy.png"/>
+</div>
+
+
 * Detecting action potentials and spike clustering
   * Filtering
   * Detecting spikes
