@@ -43,7 +43,7 @@ The students will complete a small data science project at the end of the course
 
 * Why and how are in-vivo recordings performed?
 
-* Introduction to SciPy
+* Introduction to the SciPy library
 <div>
 <img src="images/scipy.png"/>
 </div>
