@@ -58,7 +58,7 @@ The students will complete a small data science project at the end of the course
 <img src="images/filteredSignals.png"/>
 </div>
 
-## Lecture 4
+## Week 4
 
 * Detecting action potentials and spike clustering
   * Dimensionality reduction
