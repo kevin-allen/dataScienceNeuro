@@ -1,5 +1,4 @@
 from scipy.signal import butter
-from scipy.signal import sosfreqz
 from scipy.signal import sosfiltfilt
 from scipy.signal import find_peaks
 import matplotlib.pyplot as plt
@@ -102,7 +101,7 @@ def plot_spike_detection(y,spikeTimesList,thresholds,offset=3000, figsize=(20,15
     Arguments:
     y: 2D numpy array containing the filtered data
     spikeTimeList: list of 1D numpy arrays. each array contains the times of the spikes detected on one channel
-    threholds: 1D numpy array containing the detection thresholds for each channel
+    thresholds: 1D numpy array containing the detection thresholds for each channel
     offset: y offset for plotting the data of each channel. To avoid plotting data on top of each other
     """
     
