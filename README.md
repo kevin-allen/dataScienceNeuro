@@ -60,19 +60,23 @@ The students will complete a small data science project at the end of the course
 
 ## Week 4
 
-* Introduction to the scikit-learn library
+Introduction to the scikit-learn library
 
 <div>
 <img src="images/scikit-learn.png" width="150" />
 </div>
 
+* Dimensionality reduction
 
-* Detecting action potentials and spike clustering
-  * Dimensionality reduction
-  * Clustering spike waveforms
+<div>
+<img src="images/waveformPCA.png" width="350" />
+</div>
+
+
+* Clustering spike waveforms
   
 <div>
-<img src="images/pca.png"/>
+<img src="images/pca.png" width="700"/>
 </div>
 
 
