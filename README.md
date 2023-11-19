@@ -78,14 +78,16 @@ Introduction to the scikit-learn library
 
 
 
-## Lecture 5
+## Week 5
 
-* Introduction to deep neuronal networks
-* Pose estimation using Deeplabcut
 
 <div>
-<img src="images/dlc_path.png"/>
+<img src="images/pytorch.png"/>
 </div>
+
+* Introduction to neural network
+* Training models with pytorch
+* Using a convolutional network to process images
 
 
 
