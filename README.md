@@ -68,9 +68,6 @@ Introduction to the scikit-learn library
 
 * Dimensionality reduction
 
-<div>
-<img src="images/waveformPCA.png" width="350" />
-</div>
 
 
 * Clustering spike waveforms
