@@ -85,9 +85,9 @@ Introduction to the scikit-learn library
 <img src="images/pytorch.png"/>
 </div>
 
-* Introduction to neural network
+* Introduction to neural networks
 * Training models with pytorch
-* Using a convolutional network to process images
+* Using a convolutional network to classify images
 
 
 
