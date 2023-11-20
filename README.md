@@ -82,7 +82,7 @@ Introduction to the scikit-learn library
 
 
 <div>
-<img src="images/pytorch.png"/>
+<img src="images/pytorch.png width="300""/>
 </div>
 
 * Introduction to neural networks
