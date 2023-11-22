@@ -4,7 +4,7 @@ To be able to run Python code, you will need to install Python on your computer 
 
 ## Windows operating system
 
-I would recommend using `Anaconda` to install Python on your Windows computer.
+I recommend using `Anaconda` to install Python on your Windows computer.
 
 ### Install Anaconda
 
@@ -15,27 +15,27 @@ I would recommend using `Anaconda` to install Python on your Windows computer.
 
 
 1. Open Anaconda.Navigator
-2. Click on Environments
-3. Click create
+2. Click on `Environments`
+3. Click `create`
 4. Enter the name "dsenv" to create an environment named `dsenv`. Select python 3.11.5
 
 ### Install pytorch
 
-1. Open Anaconda powershell prompt
+1. Open the Anaconda PowerShell prompt
 2. `conda activate dsenv`
 3. `conda install pytorch torchvision torchaudio cpuonly -c pytorch`
 
 ### Test torch installation
-1. Open Anaconda powershell prompt
+1. Open the Anaconda PowerShell prompt
 2. `conda activate dsenv`
 3. `python`
 4. In the Python interpreter, run `import torch`
 
 ### Install jupyter lab in your torch environment
-1. Open Anaconda powershell prompt
+1. Open the Anaconda PowerShell prompt
 2. `conda activate dsenv`
 3. `conda install -c conda-forge jupyterlab`
-4. Close and restart Anaconda powershell prompt and activate the torch environment
+4. Close and restart the Anaconda PowerShell prompt and activate the torch environment
 5. `jupyter lab`
 
 
