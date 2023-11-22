@@ -2,6 +2,47 @@
 
 To be able to run Python code, you will need to install Python on your computer if your Operating system does not come with it.
 
+## Windows operating system
+
+I recommend using `Anaconda` to install Python on your Windows computer.
+
+### Install Anaconda
+
+1. Download the Anaconda installation file from https://docs.anaconda.com/free/anaconda/install/windows/
+2. Double-click on the downloaded file to install Anaconda. Use the default settings and note the installation directory
+
+### Create a conda environment in which you will run the code for the course
+
+
+1. Open Anaconda.Navigator
+2. Click on `Environments`
+3. Click `create`
+4. Enter the name "dsenv" to create an environment named `dsenv`. Select python 3.11.5
+
+### Install pytorch
+
+1. Open the Anaconda PowerShell prompt
+2. `conda activate dsenv`
+3. `conda install pytorch torchvision torchaudio cpuonly -c pytorch`
+
+### Test torch installation
+1. Open the Anaconda PowerShell prompt
+2. `conda activate dsenv`
+3. `python`
+4. In the Python interpreter, run `import torch`
+
+### Install jupyter lab in your torch environment
+1. Open the Anaconda PowerShell prompt
+2. `conda activate dsenv`
+3. `conda install -c conda-forge jupyterlab`
+4. Close and restart the Anaconda PowerShell prompt and activate the torch environment
+5. `jupyter lab`
+
+
+You should now be able to run the Notebook of the course. 
+Don't forget to activate your `dsenv` when you start working.
+
+
 ## Ubuntu
 
 Ubuntu comes with Python 3 installed by default.
