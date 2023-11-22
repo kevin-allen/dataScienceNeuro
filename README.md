@@ -93,7 +93,7 @@ Introduction to the scikit-learn library
 
 ![Example](images/tracking_animation.gif)
 
-## Week 6, lecture 2
+## Week 6.2
 
 * Analysis on spike trains (mean firing rate and instantaneous firing rate)
 * Firing rate map of a spatially selective neuron
