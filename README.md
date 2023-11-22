@@ -89,7 +89,11 @@ Introduction to the scikit-learn library
 * Training models with pytorch
 * Using a convolutional network to classify images
 
+## Week 5.1
 
+* Tracking objects in images using a U-Net
+
+![Example](images/tracking_animation.gif)
 
 ## Lecture 6
 
