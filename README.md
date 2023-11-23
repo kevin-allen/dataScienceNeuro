@@ -9,6 +9,11 @@ Most lectures have an important hands-on component, where the students learn to 
 The students will complete a small data science project toward the end of the course. These projects will be presented by the students during the last lecture of the course.
 
 
+## Useful links 
+
+* [Install python and python libraries for the course](installation.md)
+* 
+
 ## Week 1
 
 * What is data science?
