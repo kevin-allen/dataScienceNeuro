@@ -2,11 +2,13 @@
 
 It is sometimes helpful to run Jupyter Notebooks on Google Colab. For example, if you want to train a deep neural network using a GPU but your computer does not have a GPU, you can use Google GPU to train your model.
 
-To use Google Colab, you will need a Google account and a Google Drive. 
+To use Google Colab, you will need a Google account.
 
-We will use Google Drive to access data from your Jupyter Notebook. You can also use Google drive to save results. 
+It is also useful to have a Google Drive to load data files from it. You can also save data from the notebook to your Google Drive. 
 
-## Create a folder for you data and notebooks on Google Drive
+In the instructions below, we will use Google Drive to access data from your Jupyter Notebook. 
+
+## Create a folder for your data and notebooks on Google Drive
 
 1. Create a folder in the root of your Google Drive. You can call it `dsfolder`.
 2. Upload the notebook called `colab_test.ipynb` from the `notebooks` directory into the `dsfolder` of your Google Drive. 
