@@ -2,6 +2,8 @@
 
 To be able to run Python code, you will need to install Python on your computer if your Operating system does not come with it.
 
+Below are instructions to install Python and a few Python libraries on Windows or Ubuntu.
+
 ## Windows operating system
 
 I recommend using `Anaconda` to install Python on your Windows computer.
