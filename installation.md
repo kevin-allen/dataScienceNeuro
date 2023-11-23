@@ -38,7 +38,7 @@ I recommend using `Anaconda` to install Python on your Windows computer.
 2. `conda activate dsenv`
 3. `conda install matplotlib`
 4. `conda install -c conda-forge jupyterlab`
-5. Close and restart the Anaconda PowerShell prompt and activate the torch environment
+5. Close and restart the Anaconda PowerShell prompt and activate the `dsenv` environment
 6. `jupyter lab`
 
 
