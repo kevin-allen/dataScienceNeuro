@@ -85,6 +85,11 @@ With your Python environment activated, install a few packages
 pip install numpy pandas matplotlib scipy jupyterlab scikit-learn
 ```
 
+### Install pytorch
+
+```
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+```
 
 ### Test your installation
 
