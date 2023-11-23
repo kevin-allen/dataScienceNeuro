@@ -9,7 +9,14 @@ We will use Google Drive to access data from your Jupyter Notebook. You can also
 ## Create a folder for you data and notebooks on Google Drive
 
 1. Create a folder in the root of your Google Drive. You can call it `dsfolder`.
-2. Upload the notebook called `colab_test.ipynb` into the `dsfolder` of your Google drive.
+2. Upload the notebook called `colab_test.ipynb` from the `notebooks` directory into the `dsfolder` of your Google Drive. 
+3. Upload the file `animal_speed.npy` from the `data` folder into the `dsfolder` of your Google Drive.
+
+## Open your Notebook in Google Colab
+
+1. Double click on the `colab_test.ipynb` in the `dsfolder`.
+2. You should now have a window with the content of the notebook.
+3. Run the code of the Notebook to learn how to access your Google Drive from a notebook in Google Colab.
 
 
 
