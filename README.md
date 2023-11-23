@@ -4,11 +4,9 @@ This is the repository for the course [Data Science and analysis in Neuroscience
 
 The course is aimed at students interested in improving their ability to perform data analysis in the field of neuroscience. 
 
-There is a series of lectures that introduces the main concepts, and each lecture ends with some exercises that can be completed between lectures. 
+Most lectures have an important hands-on component, where the students learn to run codes on their own computers. There are exercises associated with most of the topics covered in class.
 
-There will be 2-3 quizzes to test how much of the course content has been learned and can be used in the context of typical problems encountered while performing data analysis.
-
-The students will complete a small data science project at the end of the course.
+The students will complete a small data science project toward the end of the course. These projects will be presented by the students during the last lecture of the course.
 
 
 ## Week 1
@@ -89,9 +87,13 @@ Introduction to the scikit-learn library
 * Training models with pytorch
 * Using a convolutional network to classify images
 
+## Week 6.1
 
+* Tracking objects in images using a U-Net
 
-## Lecture 6
+![Example](images/tracking_animation.gif)
+
+## Week 6.2
 
 * Analysis on spike trains (mean firing rate and instantaneous firing rate)
 * Firing rate map of a spatially selective neuron
