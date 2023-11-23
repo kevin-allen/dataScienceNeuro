@@ -34,9 +34,10 @@ I recommend using `Anaconda` to install Python on your Windows computer.
 ### Install jupyter lab in your torch environment
 1. Open the Anaconda PowerShell prompt
 2. `conda activate dsenv`
-3. `conda install -c conda-forge jupyterlab`
-4. Close and restart the Anaconda PowerShell prompt and activate the torch environment
-5. `jupyter lab`
+3. `conda install matplotlib`
+4. `conda install -c conda-forge jupyterlab`
+5. Close and restart the Anaconda PowerShell prompt and activate the torch environment
+6. `jupyter lab`
 
 
 You should now be able to run the Notebook of the course. 
