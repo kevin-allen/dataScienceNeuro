@@ -13,6 +13,7 @@ The students will complete a small data science project toward the end of the co
 
 * [Install python and python libraries for the course](installation.md)
 * [Run Jupyter Notebooks on Google Colab](colab.md)
+* [Projects](projects.md)
 
 ## Week 1
 
