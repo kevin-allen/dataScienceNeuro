@@ -35,3 +35,20 @@ print("Files in the directory:")
 for file in files:
     print(file)
 ```
+
+## Make sure Google Drives does not change .csv to .gSheet 
+
+When you upload files to Google Drive, Google might decide to change the format of the files. 
+
+To disable the "Convert uploaded files to Google Docs editor format" option, you can follow these steps:
+1. Open Google Drive in your web browser.
+2. Click on the gear icon (:gear:) in the upper-right corner to open the Settings menu.
+3. In the Settings menu, select "Settings."
+4. Look for the option named "Convert uploaded files to Google Docs editor format." If it's present, you can toggle it off to disable the automatic conversion.
+
+
+
+
+
+
+
