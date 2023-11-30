@@ -93,13 +93,13 @@ Introduction to the scikit-learn library
 * Training models with pytorch
 * Using a convolutional network to classify images
 
-## Week 6.1
+## Week 6
 
 * Tracking objects in images using a U-Net
 
 ![Example](images/tracking_animation.gif)
 
-## Week 6.2
+## Week 7 (if sufficient time available)
 
 * Analysis on spike trains (mean firing rate and instantaneous firing rate)
 * Firing rate map of a spatially selective neuron
