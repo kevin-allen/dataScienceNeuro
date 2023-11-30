@@ -21,21 +21,6 @@ In the instructions below, we will use Google Drive to access data from your Jup
 3. Run the code of the Notebook to learn how to access your Google Drive from a notebook in Google Colab.
 
 
-## List files and folders in a Google Drive directory
-
-
-```
-import os
-# Specify the directory path
-directory_path = "/content/drive/My Drive/"
-# List all files in the directory
-files = os.listdir(directory_path)
-# Print the list of files
-print("Files in the directory:")
-for file in files:
-    print(file)
-```
-
 ## Make sure Google Drives does not change .csv to .gSheet 
 
 When you upload files to Google Drive, Google might decide to change the format of the files. 
