@@ -1,10 +1,10 @@
 # Run Jupyter Notebooks on Google Colab
 
-It is sometimes helpful to run Jupyter Notebooks on Google Colab. For example, if you want to train a deep neural network using a GPU but your computer does not have a GPU, you can use Google GPU to train your model.
+It is sometimes helpful to run Jupyter Notebooks on Google Colab. For example, if you want to train a deep neural network using a GPU but your computer does not have a GPU, you can use Google GPUs to train your model.
 
 To use Google Colab, you will need a Google account.
 
-It is also useful to have a Google Drive to load data files from it. You can also save data from the notebook to your Google Drive. 
+Having a Google Drive to load data files from it is also useful. You can also save data from the notebook to your Google Drive. 
 
 In the instructions below, we will use Google Drive to access data from your Jupyter Notebook. 
 
