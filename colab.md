@@ -11,13 +11,13 @@ In the instructions below, we will use Google Drive to access data from your Jup
 ## Create a folder for your data and notebooks on Google Drive
 
 1. Create a folder in the root of your Google Drive. You can call it `dsfolder`.
-2. Upload the notebook called `colab_test.ipynb` from the `notebooks` directory into the `dsfolder` of your Google Drive. 
-3. Upload the file `animal_speed.npy` from the `data` folder into the `dsfolder` of your Google Drive.
+2. Upload the notebook called `colab_test.ipynb` from the `dataScienceNeuro/notebooks` directory into the `dsfolder` of your Google Drive. 
+3. Upload the file `animal_speed.npy` from the `dataScienceNeuro/data` folder into the `dsfolder` of your Google Drive.
 
 ## Open your Notebook in Google Colab
 
 1. Double click on the `colab_test.ipynb` in the `dsfolder`.
-2. You should now have a window with the content of the notebook.
+2. You should now have a window with the notebook's content.
 3. Run the code of the Notebook to learn how to access your Google Drive from a notebook in Google Colab.
 
 
