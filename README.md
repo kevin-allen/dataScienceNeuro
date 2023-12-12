@@ -1,12 +1,12 @@
 # Data Science in Neuroscience
 
-This is the repository for the course [Data Science and analysis in Neuroscience](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=375092&purge=y&topitem=lectures&subitem=editlecture&asi=al$3tixanI2BKb.VkKa2) which is offered to Master's students on the Neuroscience Major program at the  Faculty of Biosciences, University of Heidelberg.
+This is the repository for the course [Data Science and Analysis in Neuroscience](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=375092&purge=y&topitem=lectures&subitem=editlecture&asi=al$3tixanI2BKb.VkKa2) which is offered to Master's students in the Neuroscience Major program at the  Faculty of Biosciences, University of Heidelberg.
 
 The course is aimed at students interested in improving their ability to perform data analysis in the field of neuroscience. 
 
 Most lectures have an important hands-on component, where the students learn to run codes on their own computers. There are exercises associated with most of the topics covered in class.
 
-The students will complete a small data science project toward the end of the course. These projects will be presented by the students during the last lecture of the course.
+The students will complete a small data science project toward the end of the course. The students will present these projects during the last lecture of the course.
 
 
 ## Useful links 
